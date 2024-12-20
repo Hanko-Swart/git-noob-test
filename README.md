@@ -5,4 +5,4 @@ This is my personal development branch
 
 Testing changes in personal branch for the 4th time
 
-Testing a conlfict from my personal branch
+Testing another conlfict from my personal branch
